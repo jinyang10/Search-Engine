@@ -1,4 +1,6 @@
 # search-engine
 
-Simplified search engine which performs Crawling and Indexing via DFS, Ranking via PageRank algorithm, and Searching
-MyTester tests the different xml files (which serve as proxy for web pages) for a given search word
+Simplified search engine performs Crawling and Indexing via DFS, Ranking via PageRank algorithm, and Searching
+
+
+Use MyTester to test the different xml files (which serve as proxy for web pages), using the search engine to search a word
